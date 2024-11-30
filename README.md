@@ -31,3 +31,22 @@ Navigation: Easy switching between modules (Customer Management, Product Managem
 Forms: Simple and intuitive forms for data input.
 Tables: Neatly organized tables to display customer, product, and purchase data.
 Alerts: Notifications for operations like adding, updating, or deleting records.
+
+I have attached some images on how the end product will look like, do take a look:
+
+![image](https://github.com/user-attachments/assets/6f777d2b-d60b-4fea-a2ed-ae8d12205d23)
+![image](https://github.com/user-attachments/assets/463fcce1-2de4-4441-b05e-eb8354ada55c)
+![image](https://github.com/user-attachments/assets/97c22b3b-0a11-4a9a-b776-a116b1e89ae1)
+![image](https://github.com/user-attachments/assets/3315a3f2-793b-4d3b-a7b5-57be5ecbfe33)
+![image](https://github.com/user-attachments/assets/c5c26231-0fd7-4b6c-9168-04e2a1231742)
+![image](https://github.com/user-attachments/assets/67e5c960-d06f-49a8-9b34-524e127d60d7)
+![image](https://github.com/user-attachments/assets/019e113e-6328-49fb-8a9f-2d337c53a649)
+![image](https://github.com/user-attachments/assets/3c8926d7-ed71-4aff-bc43-006fbe7b0c2c)
+
+And finally, the sales report:
+![image](https://github.com/user-attachments/assets/4cd1461f-4ad6-4a22-8f02-c8c85d1ec74b)
+![image](https://github.com/user-attachments/assets/a92cab43-4aed-4122-979d-78da7b593664)
+
+
+
+
